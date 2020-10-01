@@ -1,2 +1,2 @@
 # fastai
-Course notes for the Fast AI course https://fast.ai.com
+Course notes for the Fast AI course https://fast.ai
